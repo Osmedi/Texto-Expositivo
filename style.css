@@ -225,13 +225,13 @@ th {
     display: inline-block;
 }
 footer{
-    background-color: rgb(255, 255, 255);
+    border-top: 1px double rgb(153, 0, 0);
     margin: 20;
     padding: -20px;
     width: 100%;
     height: 100px;
     text-align: center;
-    color: #35e090;
+    color: #838383;
     display: block;
     
 
