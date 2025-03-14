@@ -173,8 +173,15 @@ h3 {
     padding: 10px 15px;
     margin: 15px 0;
     font-size: 0.9em;
-}
+    display: flex;
 
+}
+.tip img{
+    width: 150px;
+    border-radius: 8px;
+    object-fit: cover;
+    
+}
 table {
     width: 100%;
     border-collapse: collapse;
@@ -240,6 +247,13 @@ footer img{
     footer img{
       
         width: 100px;
+    }
+    .tip {
+        display: block;
+        text-align: center
+    }
+    .tip p{
+        text-align:left ;
     }
   }
   
